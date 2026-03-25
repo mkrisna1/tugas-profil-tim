@@ -30,9 +30,7 @@ export default function Home() {
             Website Profil Para Sigma
           </h1>
           <p className="mt-4 max-w-2xl text-white/90">
-            Halaman ini berisi profil masing-masing anggota tim dengan URL yang
-            berbeda, styling Tailwind CSS, dan struktur yang mudah disinkronkan
-            lewat GitHub branch.
+            Di website ini, kamu bisa melihat profil tiap anggota Kelompok Sigma dengan halaman yang berbeda-beda.
           </p>
         </header>
 
