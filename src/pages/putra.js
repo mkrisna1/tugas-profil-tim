@@ -1,5 +1,5 @@
 import ProfileLayout from "../layout/layout";
-import putraPhoto from "../images/putra.png";
+import putraPhoto from "../images/Putra.png";
 
 export default function putra() {
 
