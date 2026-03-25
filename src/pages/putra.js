@@ -1,12 +1,8 @@
 import ProfileLayout from "../layout/layout";
-import putraPhoto from "../images/Putra.png";
+import putraPhoto from "../images/putra.png";
 
-export default function Krisna() {
-  const skills = ["ReactJS", "JavaScript", "HTML & CSS", "UI/UX Design"];
-  const experiences = [
-    { role: "Web Developer Intern", company: "PT Tekno Indramayu", year: "2024" },
-    { role: "UI/UX Project", company: "Proyek Kampus", year: "2023" }
-  ];
+export default function putra() {
+
 
   return (
     <ProfileLayout
