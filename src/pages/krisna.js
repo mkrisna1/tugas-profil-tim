@@ -12,20 +12,16 @@ export default function krisna() {
       about={
         <>
           <p>
-            Saya adalah mahasiswa yang memiliki ketertarikan besar pada dunia
-            teknologi, terutama pengembangan web dan desain antarmuka. Sejak
-            awal masuk kuliah, saya senang mempelajari bagaimana sebuah aplikasi
-            dibuat, mulai dari tampilan depan sampai logika di belakangnya. Hal
-            itu membuat saya semakin ingin memahami ReactJS, komponen, dan cara
-            kerja state dengan lebih dalam.
-          </p>
-          <p>
-            Di luar kuliah, saya cukup aktif mencari referensi baru, mencoba
-            membuat proyek kecil, dan memperbaiki tampilan supaya lebih rapi dan
-            nyaman digunakan. Saya juga suka bekerja dalam tim karena dari
-            kolaborasi saya bisa belajar pembagian tugas, komunikasi, dan
-            penyelesaian masalah bersama. Bagi saya, proses belajar yang
-            konsisten jauh lebih penting daripada hasil yang instan.
+            Saya adalah mahasiswa Teknologi Informasi di Universitas Brawijaya yang dari dulu 
+            sudah cukup dekat dengan dunia komputer. Awalnya saya lebih sering main 
+            game dan meng-eksplor software, tapi sekarang saya mulai lebih serius belajar 
+            tentang bagaimana sebuah aplikasi/website dibuat. Saya tertarik mencoba hal-hal baru, 
+            walaupun kadang-kadang masih sering error saat coding, tapi dari situ saya banyak belajar. 
+            Saya juga cukup suka dalam kerja tim karena bisa tukar pikiran dan cari solusi bareng. 
+            Semoga kedepannya, saya bisa terus mengembangkan skill dan lebih jago ngoding. Selain itu,
+            saya juga ingin mencoba lebih banyak proyek agar pengalaman saya makin bertambah. Terakhir,
+            saya berharap kedepannya bisa jadi developer yang lebih profesional, terus berkembang, dan
+            bisa mengikuti perkembangan teknologi yang semakin cepat.
           </p>
         </>
       }
