@@ -1,7 +1,7 @@
 function krisna() {
   return (
     <div>
-      <h1>Halaman timothy</h1>
+      <h1>Halaman krisna</h1>
     </div>
   );
 }
