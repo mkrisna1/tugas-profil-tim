@@ -7,12 +7,12 @@ const profiles = [
     desc: "Profil Krisna",
   },
   {
-    name: "Timothy",
+    name: "Timothy Athlon Pratama Adi",
     slug: "/timothy",
     desc: "Profil Timothy",
   },
   {
-    name: "Bintang Putra",
+    name: "Ahmad Bintang Putra Fajariyanto",
     slug: "/putra",
     desc: "Profil Putra",
   },
@@ -24,10 +24,10 @@ export default function Home() {
       <div className="mx-auto max-w-6xl">
         <header className="rounded-3xl bg-gradient-to-r from-indigo-600 to-cyan-500 p-8 shadow-2xl">
           <p className="text-sm font-semibold uppercase tracking-[0.2em]">
-            Tugas ReactJS + Tailwind
+            kelompok sigma
           </p>
           <h1 className="mt-2 text-4xl font-bold">
-            Website Profil Anggota Tim
+            Website Profil Para Sigma
           </h1>
           <p className="mt-4 max-w-2xl text-white/90">
             Halaman ini berisi profil masing-masing anggota tim dengan URL yang
