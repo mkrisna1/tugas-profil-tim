@@ -1,7 +1,7 @@
 import ProfileLayout from "../layout/layout";
 import krisnaPhoto from "../images/timothy.png";
 
-export default function krisna() {
+export default function timothy() {
   return (
     <ProfileLayout
       name="Timothy Athlon Pratama Adi"
