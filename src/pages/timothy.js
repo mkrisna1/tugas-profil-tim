@@ -1,5 +1,5 @@
 import ProfileLayout from "../layout/layout";
-import krisnaPhoto from "../images/timothy.png";
+import timothyPhoto from "../images/timothy.png";
 
 export default function timothy() {
   return (
