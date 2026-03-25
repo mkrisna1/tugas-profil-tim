@@ -1,7 +1,4 @@
-import ProfileLayout from "../layout/layout";
-import krisnaPhoto from "../images/krisna.png";
-
-export default function krisna() {
+function krisna() {
   return (
     <ProfileLayout
       name="Muhammad Krisna Nugraha"
@@ -28,3 +25,5 @@ export default function krisna() {
     />
   );
 }
+
+export default krisna;
